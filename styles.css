@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+#table-1 td{
+width:200px;
+border:1px solid black;
+}
+.right{
+text-align:right
+}
+.center{
+text-align:center;
+}
+
+#table-2 td{
+width:200px;
+border:1px solid black;
+}
+#table-3 td{
+width:200px;
+border:1px solid black;
+padding:1px;
+}
+.green{
+background-color:green;
+
+}
+
+.blue{
+background-color:blue;
+
+}
+#t-image{
+text-align:center;
+}
+
+
